@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! This website showcases my professional experience, technical skills, projects, and achievements as a Software Development Engineer.
 
-🌐 **Live Portfolio:** [https://dhanada-portfolio.vercel.app/](https://dhanada-portfolio.vercel.app/)
+🌐 **Live Portfolio:** https://dhanada-portfolio.vercel.app/
 
 ## 👩‍💻 About Me
 
